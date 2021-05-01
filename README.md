@@ -1,7 +1,7 @@
 ## Getting Started
 Programm CalcCode counting lines code in files group by output by extensions of file.
 
-## Exaple work
+## Example work
 ![](./CalcCodeExamle.png?raw=true "Optional Title")
 
 ## Folder Structure
